@@ -61,3 +61,5 @@ Pages 1-
 - Uses HTTP verbs
   - PUT if client can generate own safe ID
   - POST if it cannot, and it gets returned
+
+[END CHAPTER]

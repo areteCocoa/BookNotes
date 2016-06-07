@@ -75,3 +75,5 @@ running
 
 ### The Help Menu
 - Can also use the help menu GUI
+
+[END CHAPTER]
