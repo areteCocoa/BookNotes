@@ -1,0 +1,24 @@
+# Chapter 4: Analysis of Algorithms
+Pages 38 -
+
+- Understand algorithms so we know which one to use in certain situations
+- Chapter Summary
+  - Worst-case analysis: A way to measure how an algorithm will run in the worst case possible
+  - O-notation: A method for notating how quickly an algorithm will run given it's input
+  - Computational Complexity: How the size of the input scales to the duration of the algorithm. Measured
+    using O-notation
+
+# Worst-Case Analysis
+- Three cases are recognized: best-case, average-case and worst-case
+
+## Reasons for Worst-Case
+- Four reasons to analyze using worst case:
+  - Most algorithms perform at worst-case most of the time
+  - Best-case is often the same for different algorithms and not a good way to measure the difference
+  - Average-case is hard to estimate and rarely accurate
+  - Worst-case gives an upper bound in performance so we know it can never run slower than the worst-case
+
+## O-Notation
+- Express algorithms as functions of the size of the data is processes
+- f(n) where n is the "number" of data
+- Order of growth is how the algorithm scales with growing amounts of data
